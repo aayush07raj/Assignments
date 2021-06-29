@@ -1,0 +1,10 @@
+
+—
+java:S1319"uThe type of the "colorsList" object should be an interface such as "List" rather than the implementation "ArrayList".(ÃËÁÿÿÿÿÿ8¤æå¹¥/
+L
+java:S3740"/Provide the parametrized type for this generic.(¯÷ü8¥æå¹¥/
+0
+java:S1220""Move this file to a named package.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Çûš8«æå¹¥/
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃËÁÿÿÿÿÿ8«æå¹¥/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Òã¹8¬æå¹¥/
